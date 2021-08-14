@@ -1,0 +1,26 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#assignment-instructions {
+    color:purple;
+    font-family: sans-serif;
+}
+
+code {
+    font-family: monospace;
+    color: red;
+}
+
+.second-li code {
+    color: green;
+}
+
+li code {
+    font-family: inherit;
+}
+
+ol > li {
+    background: black;
+    color: white;
+}

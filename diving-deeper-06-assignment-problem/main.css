@@ -1,0 +1,16 @@
+.box {
+    margin: 10px 11px 9px 12px;
+    border: 2px solid purple;
+    padding: 24px 21px 22px 34px;
+    display: inline-block;
+}
+
+.box__first {
+    height: 300px;
+    width: 50%;
+    display: none;
+}
+
+.box:hover {
+    background-color: red;
+}
