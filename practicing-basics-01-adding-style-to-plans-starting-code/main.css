@@ -103,6 +103,7 @@
 }
 
 .key-feature__image {
+  padding: 20px;
   background: #ffcede;
   width: 128px;
   height: 128px;
